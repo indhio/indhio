@@ -41,7 +41,7 @@ Software Development is a passion that started in me when I was 15 years old. A 
  - 🐴  Chess Player
  - 🥋  Blue Belt Jiu-jitsu
  
-## Business and Entrepreneur
+## Business and Entrepreneurship
 
  - CTO, Co-Founder and Partner at [SmartLine](https://smartlinepro.com.br)
  - CTO and Founder at [NaEscala](https://naescala.com.br) 
