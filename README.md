@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## Who am I
 
-Software Development is a passion that started in me when I was 15 years old. A promising professional career was birthed as I was playing around with a hobby, creating HTML pages and implementing simple javascript functions. Now, I’ve been in one of the most sought after professional careers in the technology world for 20 years.
+Software Development is a passion that started  twenty year ago.
 
  - 💻  Software Engineer
  - ⌨️  Full Steak Developer
