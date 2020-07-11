@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 # Vinicius Nascimento :man_technologist:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/indhio)](https://github.com/indhio)
@@ -29,18 +30,46 @@ Here are some ideas to get you started:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/viniciusnitt)](https://t.me/viniciusnitt)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusnitt@gmail.com)](mailto:viniciusnitt@gmail.com)
 
+## Who am I
+
 Developing web, softwares and mobile applications is a passion that started in me when I was 15 years old. A promising professional career was birthed as I was playing around with a hobby, creating HTML pages and implementing simple javascript functions. Now, I’ve been in one of the most sought after professional careers in the technology world for 20 years.
 
- - 💻 Software Engineer
- - ⌨️ Full Steak Developer
- - 🚀 Entrepreneur
- - 🎸 Musician
- - 🐴 Chess Player
- - 🥋 Blue Belt Jiu-jitsu
+ - 💻  Software Engineer
+ - ⌨️  Full Steak Developer
+ - 🚀  Entrepreneur
+ - 🎸  Musician
+ - 🐴  Chess Player
+ - 🥋  Blue Belt Jiu-jitsu
+ 
+## Business and Entrepreneur
+
+ - CTO, Co-Founder and Partner at [SmartLine](https://smartlinepro.com.br)
+ - CTO and Founder at [NaEscala](https://naescala.com.br) 
+ - Founder at [Indh.io Technologies](https://indh.io)
+ - IT Consultant at [Zapteck Soluções Digitais](https://zapteck.com.br)
+
+## Skills, Stacks, Technologies, Languages and Framework 
+
+ - Android Development,  iOS Development, Web Applications, Mobile Applications;
+ - Software Development, Web Services, Software Architecture, Software Engineers
+ - Java, Maven, Spring, Maven, JEE, JPA, EJB, Hibernate, Spring Boot;
+ - Typescript, JavaScript, NodeJS, NestJS;
+ - Angular, React, ReactJS, React Native;
+ - XML, HTML, JSP, JSON;
+ - GraphQL, MongoDB, Neo4j;
+ - C, C++, Linux and Mac OS X;
+ - Firebase, AWS, Google Cloud and Openshift;
+ - Docker, Containers and Kubernets;
+ - CDI, RESTful architecture, Sonarqube, Dependency Injection;
+ - Back-End Web Development and Software Systems Engineering; 
 
 ## Doer of what has to be done
 
 Copyright © [Indh.io Technologies](https://indh.io/)
+
+
+
+
 
 
 
