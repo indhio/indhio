@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## Who am I
 
-Developing web, softwares and mobile applications is a passion that started in me when I was 15 years old. A promising professional career was birthed as I was playing around with a hobby, creating HTML pages and implementing simple javascript functions. Now, I’ve been in one of the most sought after professional careers in the technology world for 20 years.
+Software Development Applications is a passion that started in me when I was 15 years old. A promising professional career was birthed as I was playing around with a hobby, creating HTML pages and implementing simple javascript functions. Now, I’ve been in one of the most sought after professional careers in the technology world for 20 years.
 
  - 💻  Software Engineer
  - ⌨️  Full Steak Developer
@@ -50,7 +50,7 @@ Developing web, softwares and mobile applications is a passion that started in m
 
 ## Skills, Stacks, Technologies, Languages and Framework 
 
- - Android Development,  iOS Development, Web Applications, Mobile Applications;
+ - Android Development, iOS Development, Web Applications, Mobile Applications;
  - Software Development, Web Services, Software Architecture, Software Engineers
  - Java, Maven, Spring, Maven, JEE, JPA, EJB, Hibernate, Spring Boot;
  - Typescript, JavaScript, NodeJS, NestJS;
@@ -66,6 +66,8 @@ Developing web, softwares and mobile applications is a passion that started in m
 ## Doer of what has to be done
 
 Copyright © [Indh.io Technologies](https://indh.io/)
+
+
 
 
 
