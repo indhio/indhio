@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/vinicius.nitt/)](https://www.facebook.com/vinicius.nitt)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/viniciusnitt)](https://twitter.com/viniciusnitt)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561985956607&text=Olá!)](https://api.whatsapp.com/send?phone=5561985956607&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lucasgdb)](https://t.me/lucasgdb)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lucasgdb)](https://t.me/viniciusnitt)
 
 Developing web, softwares and mobile applications is a passion that started in me when I was 15 years old. A promising professional career was birthed as I was playing around with a hobby, creating HTML pages and implementing simple javascript functions. Now, I’ve been in one of the most sought after professional careers in the technology world for 20 years.
 
