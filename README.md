@@ -48,7 +48,7 @@ Software Development is a passion that started  twenty year ago.
  - Founder at [Indh.io Technologies](https://indh.io)
  - IT Consultant at [Zapteck Soluções Digitais](https://zapteck.com.br)
 
-## Skills, Stacks, Technologies, Languages and Framework 
+## Skills, Stacks, Technologies, Languages and Frameworks
 
  - Android Development, iOS Development, Web Applications, Mobile Applications;
  - Software Development, Web Services, Software Architecture, Software Engineers
