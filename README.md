@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/vinicius.nitt/)](https://www.facebook.com/vinicius.nitt)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vinicius.nitt/)](https://www.instagram.com/vinicius.nitt/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/viniciusnitt)](https://twitter.com/viniciusnitt)
-
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561985956607&text=Olá!)](https://api.whatsapp.com/send?phone=5561985956607&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/viniciusnitt)](https://t.me/viniciusnitt)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusnitt@gmail.com)](mailto:viniciusnitt@gmail.com)
 
 ## Who am I
