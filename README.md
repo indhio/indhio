@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 Software Development is a passion that started twenty year ago.
 
  - 💻  Software Engineer
- - 🚀  Entrepreneur
  - ⌨️  Full Stack Developer
+ - 🚀  Entrepreneur
  - 🛠️  Solution Architect
- - ⚙️ Integration Specialist
+ - ⚙️  Integration Specialist
  - 🚀  Entrepreneur
  - 🎸  Musician
- - 🐴  Chess Player
+ - ♟️  Chess Player
  - 🥋  Blue Belt Jiu-jitsu
  
 ## Business and Entrepreneurship
