@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 Software Development is a passion that started  twenty year ago.
 
  - 💻  Software Engineer
- - ⌨️  Full Steak Developer
+ - ⌨️  Full Stack Developer
  - 🚀  Entrepreneur
  - 🎸  Musician
  - 🐴  Chess Player
