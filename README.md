@@ -29,10 +29,13 @@ Here are some ideas to get you started:
 
 ## Who am I
 
-Software Development is a passion that started  twenty year ago.
+Software Development is a passion that started twenty year ago.
 
  - 💻  Software Engineer
+ - 🚀  Entrepreneur
  - ⌨️  Full Stack Developer
+ - 🛠️  Solution Architect
+ - ⚙️ Integration Specialist
  - 🚀  Entrepreneur
  - 🎸  Musician
  - 🐴  Chess Player
@@ -40,6 +43,7 @@ Software Development is a passion that started  twenty year ago.
  
 ## Business and Entrepreneurship
 
+ - Integration Specialist Solution Architect at [SmartLine](https://smartlinepro.com.br)
  - CTO, Co-Founder and Partner at [SmartLine](https://smartlinepro.com.br)
  - CTO and Founder at [NaEscala](https://naescala.com.br) 
  - Founder at [Indh.io Technologies](https://indh.io)
