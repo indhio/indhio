@@ -39,7 +39,7 @@ Software Development is a passion that started twenty year ago.
  - 🚀  Entrepreneur
  - 🎸  Musician
  - ♟️  Chess Player
- - 🥋  Blue Belt Jiu-jitsu
+ - 🥋  Purple Belt Jiu-jitsu
  
 ## Business and Entrepreneurship
 
@@ -47,7 +47,7 @@ Software Development is a passion that started twenty year ago.
  - CTO, Co-Founder and Partner at [SmartLine](https://smartlinepro.com.br)
  - CTO and Founder at [NaEscala](https://naescala.com.br) 
  - Founder at [Indh.io Technologies](https://indh.io)
- - IT Consultant at [Zapteck Soluções Digitais](https://zapteck.com.br)
+ - IT Consultant at [Trendbuild Soluções Digitais](https://trendbuild.com.br)
 
 ## Skills, Stacks, Technologies, Languages and Frameworks
 
