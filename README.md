@@ -39,7 +39,7 @@ Software Development is a passion that started twenty year ago.
  - 🚀  Entrepreneur
  - 🎸  Musician
  - ♟️  Chess Player
- - 🥋  Purple Belt Jiu-jitsu
+ - 🥋  Brown Belt Jiu-jitsu
  
 ## Business and Entrepreneurship
 
