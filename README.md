@@ -43,23 +43,22 @@ Software Development is a passion that started twenty year ago.
  
 ## Business and Entrepreneurship
 
+ - Senior Software Engineer
  - Integration Specialist Solution Architect at [SmartLine](https://smartlinepro.com.br)
  - CTO, Co-Founder and Partner at [SmartLine](https://smartlinepro.com.br)
- - CTO and Founder at [NaEscala](https://naescala.com.br) 
  - Founder at [Indh.io Technologies](https://indh.io)
  - IT Consultant at [Trendbuild Soluções Digitais](https://trendbuild.com.br)
 
 ## Skills, Stacks, Technologies, Languages and Frameworks
 
- - Android Development, iOS Development, Web Applications, Mobile Applications;
  - Software Development, Web Services, Software Architecture, Software Engineers
  - Java, Maven, Spring, Maven, JEE, JPA, EJB, Hibernate, Spring Boot;
  - Typescript, JavaScript, NodeJS, NestJS;
  - Angular, React, ReactJS, React Native;
- - XML, HTML, JSP, JSON;
- - GraphQL, MongoDB, Neo4j;
+ - JSON, XML, HTML, JSP;
+ - MongoDB, GraphQL, Neo4j;
  - C, C++, Linux and Mac OS X;
- - Firebase, AWS, Google Cloud and Openshift;
+ - Firebase, AWS, Google Cloud, Oracle Cloud and Openshift;
  - Docker, Containers and Kubernets;
  - CDI, RESTful architecture, Sonarqube, Dependency Injection;
  - Back-End Web Development and Software Systems Engineering; 
