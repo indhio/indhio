@@ -22,14 +22,16 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/indhio)](https://github.com/indhio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusnitt/)](https://www.linkedin.com/in/viniciusnitt/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/vinicius.nitt/)](https://www.facebook.com/vinicius.nitt)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vinicius.nitt/)](https://www.instagram.com/vinicius.nitt/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusnitt@gmail.com)](mailto:viniciusnitt@gmail.com)
+[![X Badge](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white&link=https://x.com/viniciusnitt)](https://x.com/viniciusnitt)
+[![Website Badge](https://img.shields.io/badge/-indh.io-555?style=flat-square&logo=google-chrome&logoColor=white&link=https://indh.io)](https://indh.io)
 
-## Who am I
+## What I do
 
-Software Development is a passion that started twenty year ago.
+25+ years shipping software across enterprise, startup, and international environments. My current focus is AI integration — specifically the engineering work that makes LLMs reliable and useful inside real, complex systems.
 
+ - 🤖  AI Systems Architect
  - 💻  Software Engineer
  - ⌨️  Full Stack Developer
  - 🚀  Entrepreneur
@@ -41,25 +43,23 @@ Software Development is a passion that started twenty year ago.
  
 ## Business and Entrepreneurship
 
- - Senior Software Engineer
- - Integration Specialist Solution Architect at [SmartLine](https://smartlinepro.com.br)
- - CTO, Co-Founder and Partner at [SmartLine](https://smartlinepro.com.br)
- - Founder at [Indh.io Technologies](https://indh.io)
- - IT Consultant at [Trendbuild Soluções Digitais](https://trendbuild.com.br)
+ - IT Consulting
+ - Senior Software Engineer @ [Carnegie Learning](https://www.carnegielearning.com/) (US)  
+ - CTO & Partner @ [Trend Soluções](https://trend.com.br) — multi-channel CRM, 20+ microservices in production  
+ - CTO, Co-Founder and Partner @ [Smartline](https://smartline.com.br)
+ - Founder @ [Indh.io Technologies](https://indh.io)  
 
-## Skills, Stacks, Technologies, Languages and Frameworks
-
- - Software Development, Web Services, Software Architecture, Software Engineers
- - Java, Maven, Spring, Maven, JEE, JPA, EJB, Hibernate, Spring Boot;
- - Typescript, JavaScript, NodeJS, NestJS;
- - Angular, React, ReactJS, React Native;
- - JSON, XML, HTML, JSP;
- - MongoDB, GraphQL, Neo4j;
- - C, C++, Linux and Mac OS X;
- - Firebase, AWS, Google Cloud, Oracle Cloud and Openshift;
- - Docker, Containers and Kubernets;
- - CDI, RESTful architecture, Sonarqube, Dependency Injection;
- - Back-End Web Development and Software Systems Engineering; 
+## Skills, Stacks, Technologies
+ - 🤖  Context Engineering, Agentic AI, LLM Integration, AI Systems Architecture
+ - ☁️  AWS Kinesis, Firehose, Lambda, S3 · Snowflake ETL Pipelines
+ - ⚙️  Java, Spring Boot, JEE, JPA, EJB, Hibernate
+ - 🟦  TypeScript, JavaScript, Node.js, NestJS
+ - 🖥️  Angular, React, React Native
+ - 🗄️  MongoDB, GraphQL, MySQL, Neo4j
+ - 📨  RabbitMQ, Kafka, Redis
+ - 🐳  Docker, Kubernetes, Containers
+ - 🔐  SSO, OAuth2, Identity & Auth Platforms
+ - 🌐  Firebase, AWS, Google Cloud, Oracle Cloud
 
 ## Doer of what has to be done
 
