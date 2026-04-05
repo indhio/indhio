@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 25+ years shipping software across enterprise, startup, and international environments. My current focus is AI integration — specifically the engineering work that makes LLMs reliable and useful inside real, complex systems.
 
- - 🤖  AI Systems Architect
+ - 🤖  AI Solutions Architect
  - 💻  Software Engineer
  - ⌨️  Full Stack Developer
  - 🚀  Entrepreneur
