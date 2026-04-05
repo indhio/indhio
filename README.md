@@ -61,7 +61,7 @@ Here are some ideas to get you started:
  - 🔐  SSO, OAuth2, Identity & Auth Platforms
  - 🌐  Firebase, AWS, Google Cloud, Oracle Cloud
 
-## Doer of what has to be done
+## Teaching machines to survive the real world
 
 Copyright © [Indh.io Technologies](https://indh.io/)
 
